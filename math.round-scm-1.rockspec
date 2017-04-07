@@ -5,7 +5,7 @@ source  = {
     branch = 'master',
 }
 description = {
-    summary  = "Generic round function"
+    summary  = "Generic round function",
     homepage = 'https://github.com/Mons/lua-math-round',
     license  = 'Artistic',
 }
