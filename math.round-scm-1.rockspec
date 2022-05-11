@@ -1,7 +1,7 @@
 package = 'math.round'
 version = 'scm-1'
 source  = {
-    url    = 'git://github.com/Mons/lua-math-round.git',
+    url    = 'git+https://github.com/Mons/lua-math-round.git',
     branch = 'master',
 }
 description = {
